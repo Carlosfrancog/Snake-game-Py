@@ -1,0 +1,9 @@
+Para executar o jogo você tera que seguir os seguintes passos:
+
+entrar na pasta dist
+
+entrar na pasta main
+
+abaixo da pasta win32com está o jogo
+
+
